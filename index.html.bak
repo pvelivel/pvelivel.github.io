@@ -131,7 +131,7 @@
     </div>
 
     <div class="box tilt">
-      <img draggable="false" src="./resources/images/diabetes.jpg" alt="Diabetes Prediction" />
+      <img draggable="false" src="./resources/images/diabetics.jpg" alt="Diabetes Prediction" />
       <div class="content">
         <div class="tag">
           <h3>Diabetes Prediction & Modeling</h3>
@@ -146,6 +146,26 @@
         </div>
       </div>
     </div>
+	
+	<div class="box tilt">
+  <img draggable="false" src="./resources/images/bird.png" alt="Atlantic Flyway Avian Dashboard" />
+  <div class="content">
+    <div class="tag">
+      <h3>Atlantic Flyway Avian Population Dashboard</h3>
+    </div>
+    <div class="desc">
+      <p>
+        Interactive Tableau dashboard visualizing avian population trends, colony shifts, and survey patterns across the Atlantic Flyway using dynamic filters and maps.
+      </p>
+      <div class="btns">
+        <a href="https://public.tableau.com/views/ColonialWaterbirdsDistribution/Final?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="btn" target="_blank">
+          <i class="fas fa-chart-bar"></i> View Dashboard
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
   </div>
   <div class="viewall">
@@ -286,7 +306,7 @@
       <div class="content">
         <h3>MS in Data Analytics Engineering</h3>
         <p>George Mason University | Fairfax, Virginia, USA</p>
-        <h4>Aug 2022 – May 2024</h4>
+        <h4>Aug 2023 – May 2024</h4>
         <p><strong>GPA:</strong> 4.0/4.0</p>
         <p><strong>Key Courses:</strong> Data Mining, Data Visualization, Statistical Learning, Data Warehousing, Machine Learning, Big Data Technologies.</p>
       </div>
