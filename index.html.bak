@@ -203,60 +203,78 @@
   <h2 class="heading"><i class="fas fa-briefcase"></i> Experience </h2>
 
   <div class="timeline">
+
+    <!-- Graduate Research Assistant -->
     <div class="container right">
-		
+      <div class="content">
+        <div class="tag">
+          <h2>George Mason University</h2>
+        </div>
+        <div class="desc">
+          <h3>Graduate Research Assistant</h3>
+          <h4>Fairfax, VA | Jun 2025 – Present</h4>
+          <ul style="font-size: 14px;">
+            <li>Improved financial regime detection under Prof. KC Chang using VAE + GMM, increasing model sensitivity by 25%.</li>
+            <li>Enhanced asset allocation performance by integrating latent S&P 500 signals, boosting Sharpe ratio by 33.7%.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Analyst Intern -->
+    <div class="container left">
+      <div class="content">
+        <div class="tag">
+          <h2>Atlantic Flyway Council</h2>
+        </div>
+        <div class="desc">
+          <h3>Data Analyst Intern</h3>
+          <h4>Virginia | Jan 2025 – May 2025</h4>
+          <ul style="font-size: 14px;">
+            <li>Built an AWS Glue ETL pipeline to standardize 40+ years of bird colony data, reducing processing time by 75%.</li>
+            <li>Mapped endangered bird populations using geolocation data, enabling habitat analysis across 15 states.</li>
+            <li>Validated 10,000+ coordinates and unified taxonomy using AOU standards.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Analyst -->
+    <div class="container right">
       <div class="content">
         <div class="tag">
           <h2>Infosys Ltd, India</h2>
         </div>
         <div class="desc">
           <h3>Data Analyst</h3>
-          <h4>Sept 2022 – Jun 2023</h4>
+          <h4>Jan 2021 – Jun 2023</h4>
           <ul style="font-size: 14px;">
-            <li>Created and maintained SQL-based dashboards and reports that improved data visibility for stakeholders.</li>
-            <li>Conducted root cause analysis on messaging data (XML, CAMT), resolving recurring issues.</li>
-            <li>Built Power BI dashboards visualizing operational metrics, enhancing leadership decisions.</li>
-            <li>Optimized query logic and workflows, improving data processing speed by 40%.</li>
+            <li>Designed SQL-based dashboards to track business KPIs and operational metrics.</li>
+            <li>Built automated MuleSoft flows to convert XML/JSON into structured datasets.</li>
+            <li>Created Power BI reports for finance teams, cutting manual work by 50%.</li>
+            <li>Identified and prevented duplicate transactions in CAMT/XML messages using validation logic.</li>
           </ul>
         </div>
       </div>
     </div>
 
+    <!-- Formula Imperial Team -->
     <div class="container left">
       <div class="content">
         <div class="tag">
-          <h2>Infosys Ltd, India</h2>
+          <h2>Formula Imperial Team | KLU, India</h2>
         </div>
         <div class="desc">
-          <h3>Senior Systems Engineer</h3>
-          <h4>Jan 2021 – Sept 2022</h4>
+          <h3>Suspension Design Engineer</h3>
+          <h4>2019 – 2020</h4>
           <ul style="font-size: 14px;">
-            <li>Developed SQL queries and managed backend integrations for API-based data exchange.</li>
-            <li>Built data flows using MuleSoft to enable seamless system integration.</li>
-            <li>Maintained stable reporting pipelines by monitoring production data and resolving issues proactively.</li>
-            <li>Received client appreciation for accuracy in data transformation and reporting delivery.</li>
+            <li>Engineered and simulated coil/leaf spring systems for electric F1 prototype racing at Buddh International Circuit.</li>
+            <li>Collaborated on CAD modeling and stress simulation to improve suspension endurance and vehicle performance.</li>
+            <li>Contributed to national-level Formula Imperial final selection through component-level innovation.</li>
           </ul>
         </div>
       </div>
     </div>
-
-    <div class="container right">
-  <div class="content">
-    <div class="tag">
-      <h2>Formula Imperial Team | KLU, India</h2>
-    </div>
-    <div class="desc">
-      <h3>Suspension Design Engineer</h3>
-      <h4>2019 – 2020</h4>
-      <ul style="font-size: 14px;">
-        <li>Designed and optimized coil and leaf springs for an electric race car competing at Buddh International Circuit.</li>
-        <li>Collaborated with cross-functional team members to simulate fatigue performance under real-world track conditions.</li>
-        <li>Contributed to the team reaching the final round of ISIE’s Formula Imperial competition.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
 
   </div>
 </section>
